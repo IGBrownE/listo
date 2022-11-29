@@ -1,0 +1,7 @@
+{
+	"PORT": 3000,
+	"mongoURI": "mongodb+srv://igloo:igloo123@devconnector-mjq0t.mongodb.net/test?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken",
+	"githubClientId": "1aa19df4971f9634e617",
+	"githubSecret": "c0ae595b308958bb30895158e9c140131ab1edef"
+}
